@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="PHPWeb">
+  <test name="PHPWeb">
+    <classes>
+      <class name="com.Basefile.Base1"/>
+      <class name="com.HCHBQA.HomePage1Test"/>
+       <class name="com.HCHBQA.LoginPage1Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

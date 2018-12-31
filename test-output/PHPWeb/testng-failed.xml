@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [PHPWeb]">
+  <test name="PHPWeb(failed)">
+    <classes>
+      <class name="com.HCHBQA.HomePage1Test">
+        <methods>
+          <include name="DemoBtnTest"/>
+          <include name="TeardownTest"/>
+          <include name="LgnBtnTest"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- com.HCHBQA.HomePage1Test -->
+      <class name="com.HCHBQA.LoginPage1Test">
+        <methods>
+          <include name="TeardownTest"/>
+          <include name="initialize"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.HCHBQA.LoginPage1Test -->
+    </classes>
+  </test> <!-- PHPWeb(failed) -->
+</suite> <!-- Failed suite [PHPWeb] -->
