@@ -125,7 +125,7 @@
     <version>2.18.1</version>
     <configuration>
      <suiteXmlFiles>
-      <suiteXmlFile>src\test\resources\Testng.XML\Testng.xml</suiteXmlFile>
+      <suiteXmlFile>C:\Users\sandh\eclipse-workspace\PHPWeb\src\test\resources\Testng.XML</suiteXmlFile>
      </suiteXmlFiles>
     </configuration>
    </plugin>
